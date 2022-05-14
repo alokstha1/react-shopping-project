@@ -1,13 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a work in progress. It is a Shopping website developed with React.js and Firebase.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
+Installs necessary packages for the project defined in package.json
+
+
+
+### `npm start`
 
 
 Runs the app in the development mode.\
